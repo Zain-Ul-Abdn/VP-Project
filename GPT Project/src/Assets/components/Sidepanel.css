@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #323233;
+    /* background-color: #282829; */
+    color: white;
+    width: 280px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: -280px;
+    z-index: 1;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 13px 0 0 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+input {
+    display: none;
+}
+
+.container>p {
+    font-size: 18px;
+    /* margin-left: 5px; */
+    margin-left: 5px;
+    position: relative;
+    top: 7px;
+}
+
+.date {
+    margin: 20px 0 0 5px;
+    color: rgb(188, 179, 179);
+}
+
+.messages {
+    display: flex;
+    align-items: center;
+    /* margin: 8px 0; */
+    padding: 5px 15px;
+    width: 100%;
+    box-sizing: border-box;
+    /* border: 2px solid white; */
+}
+
+.messages:hover {
+    cursor: pointer;
+    background-color: #60606275;
+}
+
+.messageSection {
+    /* padding: 10px 10px; */
+    box-sizing: border-box;
+    height: 75vh;
+    margin-top: 10px;
+    overflow-y: scroll;
+    /* border: 2px solid red; */
+}
+
+.messageSection::-webkit-scrollbar{
+    background-color: #323233;
+    /* border-radius: 10px; */
+    width: 8px;
+    /* overflow-y: scroll; */
+
+}
+
+.messageSection::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 255, 255, 0.686);
+    border-radius: 5px;
+    /* width: 5px; */
+    overflow-y: scroll;
+}
+
+.messages img {
+    width: 20px;
+    height: 20px;
+
+}
+
+.messages p {
+    font-size: 15px;
+    display: flex;
+    text-align: left;
+    transform: translate(10px, 4px);
+    text-wrap: nowrap;
+    overflow: hidden;
+    font-weight: 500;
+}
+
+.userProfile {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    margin: 25px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+  
+}
+
+.userProfile >  .namelogo {
+    background: red;
+    font-size: 25px;
+    padding: 2px 13px;
+    margin-left: -20px;
+}
+
+.name {
+
+    position: relative;
+    left: -3rem;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+      /* border: 2px solid red; */
+}
+
+.userProfile > img{
+    width: 20px;
+    height: 20px;
+    /* margin-left: 15px; */
+    transform: translateX(8px);
+}
+
+.userProfile > img:hover{
+    cursor: pointer;
+}

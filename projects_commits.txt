@@ -1,0 +1,93 @@
+commit a2ef19ca5e8d548843fecdfcb0151352b22419b9
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Mon Jan 1 16:49:57 2024 +0500
+
+    Gemini API integrated
+
+commit 901ea5d5ed71f51a425abc4bfdceb94d102a5824
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sun Dec 3 23:31:22 2023 +0500
+
+    Maintain history section with mongodb
+
+commit 11d335f7c03c447ccc9063ae3fe7ee5f7453afa9
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Mon Nov 27 20:31:59 2023 +0500
+
+    Creating backend server and save chats data to Mongodb
+
+commit cebf2a6ef431750584851b3f4c9bad526561135a
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Thu Nov 23 18:06:21 2023 +0500
+
+    Connection error resolved
+
+commit 380da10274fed818e94bc5b7decce1ff4bc07843
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Thu Nov 23 00:00:06 2023 +0500
+
+    Adding mongodb connection
+
+commit 52f47061adb4450645bd52270dc79d85add8c9ab
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Mon Nov 20 23:41:12 2023 +0500
+
+    Modify user input box and makes it dynamically
+
+commit bd90a769d8e4fc7730c07a73c6073f2f82606a81
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sun Nov 12 23:59:03 2023 +0500
+
+    Adding Chat Section (v1)
+
+commit 24fc2503a970b6f7202dd9f52ea049f52317bcbc
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sun Nov 12 00:11:07 2023 +0500
+
+    Adding toggle functionality for sidepanel or history section
+
+commit 4f2e9ad0a710fff3feb8cc159158bdd42464d52e
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Thu Nov 9 23:52:38 2023 +0500
+
+    History section implementation completed
+
+commit 9800553502d75ad88be4ddbc5bc02bdaed410289
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sun Nov 5 23:16:52 2023 +0500
+
+    Adding SidePanel component
+
+commit ed63994493e2beaf7ea63002da00869fe4e2be6c
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sat Nov 4 23:46:32 2023 +0500
+
+    Revert "Revert "Adding GPT Header with light and dark mode""
+    
+    This reverts commit f20c67cfc01caf720b38228a740b84a2d8bfaf74.
+
+commit f20c67cfc01caf720b38228a740b84a2d8bfaf74
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sat Nov 4 23:36:58 2023 +0500
+
+    Revert "Adding GPT Header with light and dark mode"
+    
+    This reverts commit 11e858e4ddd8362a9702e16bf59dc5a36ee7e3ed.
+
+commit 11e858e4ddd8362a9702e16bf59dc5a36ee7e3ed
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Fri Nov 3 00:28:54 2023 +0500
+
+    Adding GPT Header with light and dark mode
+
+commit 234a2bc34b326181dcf1a42719a85dd46ebe70fb
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Wed Oct 25 10:50:01 2023 +0500
+
+    Adding Favicon
+
+commit dc0b0b8637b0f27a5c6511d943e3da36d66669b5
+Author: Zain_@Developer <zainmehboob376@gmail.com>
+Date:   Sun Sep 24 11:10:17 2023 +0500
+
+    Initialize project using Create React App
